@@ -1,6 +1,32 @@
 {
   "item.testmod.testium": "Testium",
   "item.testmod.deesse": "Déesse en Carton",
+  "item.testmod.dowsing_rod" : "Ore finder Otter",
+  "item.testmod.test_fuel": "Renoi inflammable",
+  "item.testmod.ruby" : "Muse",
 
-  "block.testmod.mazette_block" : "MAZETTE"
+  "item.testmod.ruby_sword" : "Muse Sword",
+  "item.testmod.ruby_pickaxe" : "Muse Pickaxe",
+  "item.testmod.ruby_shovel" : "Muse Shovel",
+  "item.testmod.ruby_axe" : "Muse Axe",
+  "item.testmod.ruby_hoe" : "Muse Hoe",
+
+
+  "block.testmod.mazette_block" : "MAZETTE",
+  "block.testmod.exploding_block" : "Dio Duck",
+  "block.testmod.ruby_ore" : "Muse ore",
+  "block.testmod.deepslate_ruby_ore" : "Deep Muse Ore",
+  "block.testmod.ruby_block": "Muse block",
+
+  "itemGroup.testmodtab": "Test Tab",
+
+
+  "item.testmod.dowsing_rod.no_valuables" : "No valuables found",
+
+
+  "tooltip.testmod.dowsing_rod.tooltip.shift" : "Right click a block to find valuables under it !",
+  "tooltip.testmod.dowsing_rod.tooltip" : "Press §eSHIFT§r for more Information",
+  "tooltip.testmod.block.explodind_block": "§eI can go boom",
+
+  "enchantment.testmod.sharper" : "§5Sharper"
 }

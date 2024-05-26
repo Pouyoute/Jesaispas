@@ -1,6 +1,7 @@
 package com.evan.testmod;
 
 import com.evan.testmod.block.ModBlocks;
+import com.evan.testmod.enchants.ModEnchants;
 import com.evan.testmod.item.ModItems;
 import com.mojang.logging.LogUtils;
 import net.minecraft.world.level.block.Block;
@@ -35,6 +36,7 @@ public class TestMod
 
         ModItems.register(eventBus);
         ModBlocks.register(eventBus);
+        ModEnchants.register(eventBus);
 
 
         eventBus.addListener(this::setup);

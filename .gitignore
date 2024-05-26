@@ -23,3 +23,6 @@ run
 
 # Files from Forge MDK
 forge*changelog.txt
+
+# textures
+resources/assets/testmod/textures/block/exploding_block.png
